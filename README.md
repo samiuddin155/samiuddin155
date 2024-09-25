@@ -1,6 +1,7 @@
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Md.Samiuddin</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"/>
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"/>
 
 - 🔭 I’m currently working on **Greenbridge.ai**
 
