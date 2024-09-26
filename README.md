@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"/>
 
-- 🔭 I’m currently working on **Greenbridge.ai**
+- 🔭 I’m currently working at **Greenbridge.ai**
 
-- 🌱 I’m currently learning **Remix.js,Cocroach.db,Next.js,bun.js**
+- 🌱 I’m currently learning **Remix.js,Cocroach.db,Amazon Cognito,Next.js,bun.js**
 
 - 📫 How to reach me **Samiuddin020@gmail.com**
 
