@@ -1,20 +1,82 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Md.Samiuddin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<h1 align="center">Hi 👋, I'm Md. Samiuddin</h1>
+<h3 align="center">🚀 Founder & CTO | Building Tech for Real-World Impact</h3>
+
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"/>
 
-- 🔭 I’m currently working at **Greenbridge.ai**
+---
 
-- 🌱 I’m currently learning **Remix.js,Cocroach.db,Amazon Cognito,Next.js,bun.js**
+### 👨‍💻 About Me
 
-- 📫 How to reach me **Samiuddin020@gmail.com**
+- 🚀 Founder & CTO of **Zipkaro**
+- 🧠 Head of Technology at **Adima Technologies**
+- 💡 Passionate about building scalable products for real-world users
+- ⚡ Turning ideas into impactful applications (especially in rural & local ecosystems)
+- 🧑‍💻 Strong focus on full-stack + mobile-first development
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🔭 What I'm Building
+
+- 📦 **Zipkaro** – Food & Grocery delivery platform for local communities  
+- 🌐 Scalable backend systems & real-time applications  
+- 📱 High-performance mobile apps with modern UX  
+
+---
+
+### 🧠 Tech Stack & Tools
+
+#### 🚀 Core Technologies
+- ⚛️ React, Next.js, Expo (React Native)
+- 🟦 TypeScript, JavaScript
+- 🌐 Node.js, Express
+
+#### 🗄️ Backend & Infra
+- 🟢 Supabase, PostgreSQL
+- 🚂 Railway.app
+- 🔌 Socket.io (real-time systems)
+- 🔐 Amazon Cognito
+
+#### 🧠 AI + Dev Tools
+- ⚡ Cursor (AI-first coding)
+- 🤖 Claude Code
+- 🧲 Antigravity (experimental workflows)
+
+#### 🎨 UI & Design
+- Tailwind CSS, Bootstrap
+- Figma, Photoshop
+
+---
+
+### 🌱 Currently Exploring
+
+- Advanced system design for scaling startups  
+- AI-assisted development workflows  
+- Real-time architecture & performance optimization  
+
+---
+
+### 📫 Reach Me
+
+- 📧 **Samiuddin020@gmail.com**
+
+---
+
+### 🌐 Connect With Me
+
 <p align="left">
-<a href="https://instagram.com/samiuddin.mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samiuddin.mohammad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mdsamiuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mdsamiuddin" height="30" width="40" /></a>
+<a href="https://instagram.com/samiuddin.mohammad" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/c/mdsamiuddin" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+### ⚡ Fun Fact
+
+> I don't just write code — I build systems that solve real problems 🚀  
+> From rural delivery apps to scalable tech platforms 💡
