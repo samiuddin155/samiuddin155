@@ -1,10 +1,17 @@
-<!-- HERO SECTION -->
+<!-- 🔥 HERO / INTRO -->
 <h1 align="center">🚀 Md. Samiuddin</h1>
-<h3 align="center">Founder & CTO @ Zipkaro • Building Tech for Bharat 🇮🇳</h3>
+
+<h3 align="center">
+Founder & CTO @ Zipkaro • Building for Bharat 🇮🇳
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C853&center=true&vCenter=true&width=600&lines=Building+Zipkaro+for+Real+India;Founder+%2B+Full-Stack+Engineer;Scaling+Real-Time+Systems;Turning+Ideas+Into+Impact" />
+</p>
 
 <p align="center">
   <a href="https://zipkaro.store/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Product-Zipkaro-success?style=for-the-badge">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Product-Zipkaro-success?style=for-the-badge">
   </a>
   <a href="mailto:Samiuddin020@gmail.com">
     <img src="https://img.shields.io/badge/📩%20Email-Contact-red?style=for-the-badge">
@@ -16,100 +23,50 @@
 
 ---
 
-<!-- HERO IMAGE -->
+<!-- 🧠 HERO IMAGE -->
 <p align="center">
-  <img src="https://ik.imagekit.io/t8m9tzvvt/ChatGPT%20Image%20Jan%203,%202026,%2011_16_16%20PM-Photoroom.png" width="220"/>
+  <a href="https://zipkaro.store/">
+    <img src="https://ik.imagekit.io/t8m9tzvvt/ChatGPT%20Image%20Jan%203,%202026,%2011_16_16%20PM-Photoroom.png" width="260"/>
+  </a>
 </p>
 
 ---
 
-# 🧠 Who Am I?
+# 🧠 About Me
 
-I’m a **Founder & Engineer** building real-world products for **Tier-2 & rural India**.
+I’m not just a developer.  
+I’m a **Founder building real-world impact products**.
 
 - 🚀 Founder & CTO of **Zipkaro**
 - 🧠 Head of Technology at **Adima Technologies**
-- ⚡ I build **scalable systems + real-time apps**
-- 🎯 Focused on **impact, not just code**
+- ⚡ Building **scalable + real-time systems**
+- 🌍 Focused on **Tier-2 & rural India innovation**
+- 🏆 Athlete mindset → discipline + execution
 
 ---
 
-# 📦 Featured Product
+# 📦 🚀 Featured Product: Zipkaro
 
-## 🚀 Zipkaro — Hyperlocal Delivery Platform
+> Hyperlocal food & grocery delivery platform for underserved communities.
 
-> Bringing food & grocery delivery to underserved communities.
-
-### 🌟 Highlights
+### 🌟 Product Highlights
 - 🛒 Food + Grocery delivery  
-- ⚡ Real-time tracking (Socket.io)  
-- 📱 Mobile-first (Expo React Native)  
-- 🌍 Built for Bharat (small towns & villages)
-
-👉 **Live:** https://zipkaro.store/
-
----
-
-# ⚙️ Tech Stack (Modern + Scalable)
-
-### 🚀 Frontend & Mobile
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js" />
-<img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" width="45"/>
-</p>
-
-### 🧠 Backend & Infra
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgresql" />
-<img src="https://cdn.worldvectorlogo.com/logos/railway-1.svg" width="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="45"/>
-</p>
-
-### 🤖 AI + Dev Stack
-<p>
-<img src="https://img.shields.io/badge/Cursor-AI%20Editor-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Claude-AI%20Code-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Antigravity-Workflow-purple?style=for-the-badge"/>
-</p>
-
----
-
-# 📊 GitHub Performance
+- ⚡ Real-time tracking (**Socket.io**)  
+- 📱 Mobile-first (**Expo React Native**)  
+- 🌍 Built for Bharat  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samiuddin155&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiuddin155&theme=tokyonight" width="48%" />
+  <a href="https://zipkaro.store/">
+    <img src="https://img.shields.io/badge/Visit%20Zipkaro-Click%20Here-success?style=for-the-badge">
+  </a>
 </p>
 
 ---
 
-# 🧠 Founder Philosophy
+# 📈 Growth & Vision
 
-> "Code is just a tool.  
-> Real success = solving real problems for real people."
-
----
-
-# 🌐 Let’s Connect
-
-<p align="center">
-<a href="https://instagram.com/samiuddin.mohammad">
-<img src="https://skillicons.dev/icons?i=instagram" width="40"/>
-</a>
-<a href="https://www.youtube.com/c/mdsamiuddin">
-<img src="https://skillicons.dev/icons?i=youtube" width="40"/>
-</a>
-<a href="mailto:Samiuddin020@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
-</a>
-</p>
-
----
-
-# ⚡ Currently Building
-
-- 📦 Scaling Zipkaro 🚀  
-- ⚡ Real-time delivery infra  
-- 🤖 AI-powered dev workflows  
-
----
+```diff
++ Building for real users, not demo projects
++ Focused on Tier-2 & rural market penetration
++ Creating scalable infra for hyperlocal delivery
++ Long-term vision: Expand across multiple cities 🚀
